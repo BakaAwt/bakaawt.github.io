@@ -6,7 +6,7 @@ function openPhotoSwipe() {
     // build items array
     var items = [
         {
-            src: 'http://gszonline.com:8888/SMS/StuClient/TestImageHelper.aspx?testimagecode=3428180001177203050'+subject+'00010'+pagenum+'&studentcode=121500'+stunum,
+            src: 'http://gszonline.com:8888/SMS/StuClient/TestImageHelper.aspx?testimagecode=3428180001177203070'+subject+'00010'+pagenum+'&studentcode=121500'+stunum,
             w: 2332,
             h: 1652
         }

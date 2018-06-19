@@ -1,10 +1,10 @@
 ﻿var texts=[
-'「秋深し　隣はなにも　しない人」<br>「晨意微寒秋渐深　侧伴无事俏佳人」',
-'「秋深し　情けは人の　ためならず」<br>「梦里不觉秋已深　余情岂是为何人」',
-'「雪が解け、そして　雪が降るまで」<br>「蓦然雪化　且静候　飞雪再临之时」',
-'「恋してた、君といた、夏は終わり」<br>「与你　共度的夏季　已迎来结束」',
-'「戻れない、君といた、秋を想う」<br>「深秋与君伴　一去不复返　只留回忆泛滥」',
-'「君と出会わなければ　つらくないのに」<br>「若未曾与你相见　又何来这份痛楚」'
+'[gravityWall] I'm screaming something to you<br>Whatever,something to me<br>But everybody can't hear.Pay attention to me!',
+'[gravityWall] Now I don't know what I really want<br>I still don't know how to escape from this beautiful trap',
+'[gravityWall] Don't know what I really want<br>I still don't know how to escape from this dangerous trap',
+'[shØut] Time has come to listen to the crying of their puppet souls<br>Words are strong,heart is dropped,scatter around and falls',
+'[shØut] Yeah get started breaking the row<br>See how it spreads out.It's beyond full real-ization',
+'[shØut] Yeah get started re-creating the world<br>Take my hands till the end,feel this raw emotion'
 ];
 var text_ptr=-1;
 /*
