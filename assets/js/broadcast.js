@@ -1,10 +1,5 @@
 ﻿var texts=[
-'[gravityWall] I'm screaming something to you<br>Whatever,something to me<br>But everybody can't hear.Pay attention to me!',
-'[gravityWall] Now I don't know what I really want<br>I still don't know how to escape from this beautiful trap',
-'[gravityWall] Don't know what I really want<br>I still don't know how to escape from this dangerous trap',
-'[shØut] Time has come to listen to the crying of their puppet souls<br>Words are strong,heart is dropped,scatter around and falls',
-'[shØut] Yeah get started breaking the row<br>See how it spreads out.It's beyond full real-ization',
-'[shØut] Yeah get started re-creating the world<br>Take my hands till the end,feel this raw emotion'
+'中考加油！'
 ];
 var text_ptr=-1;
 /*
